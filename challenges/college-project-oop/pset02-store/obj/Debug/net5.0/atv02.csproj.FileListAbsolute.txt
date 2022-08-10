@@ -1,0 +1,16 @@
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\obj\Debug\net5.0\atv02.csproj.AssemblyReference.cache
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\obj\Debug\net5.0\atv02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\obj\Debug\net5.0\atv02.AssemblyInfoInputs.cache
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\obj\Debug\net5.0\atv02.AssemblyInfo.cs
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\obj\Debug\net5.0\atv02.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\bin\Debug\net5.0\atv02.exe
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\bin\Debug\net5.0\atv02.deps.json
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\bin\Debug\net5.0\atv02.runtimeconfig.json
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\bin\Debug\net5.0\atv02.runtimeconfig.dev.json
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\bin\Debug\net5.0\atv02.dll
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\bin\Debug\net5.0\ref\atv02.dll
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\bin\Debug\net5.0\atv02.pdb
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\obj\Debug\net5.0\atv02.dll
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\obj\Debug\net5.0\ref\atv02.dll
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\obj\Debug\net5.0\atv02.pdb
+C:\Users\Usuário\dev-andre\atividade-poo\atv02\obj\Debug\net5.0\atv02.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+interface IVoar {
+    void voar();
+}
