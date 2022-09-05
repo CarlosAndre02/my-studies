@@ -1,0 +1,63 @@
+## Tech
+- Clean Code - Robert C Martin
+- Clean Architecture - Robert C Martin
+- The clean coder - Robert C Martin
+- The Pragmatic Programmer - David Thomas
+- Extreme Programming Explained - Kent Beck
+- The Mythical Man-Month - Frederick Brooks Jr
+- Concrete Mathematics: A Foundation for Computer Science - Knuth
+- The Art of Computer Programming - Knuth
+- UML Distilled: A Brief Guide to the Standard Object Modeling Language - Martin Fowler
+- Introduction to algorithms - Cormen
+- Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma
+- Patterns of Enterprise Application Architecture - Martin Fowler
+- Refactoring: Improving the Design of Existing Code - Martin Fowler
+- Growing Object-Oriented Software, Guided by Tests - Steve Freeman
+- Designing Data-Intensive Applications - Martin Kleppmann
+- Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans
+- Cracking the coding interview - Gayle Laakmann McDowell 
+- Site Reliability Engineering: How Google Runs Production Systems
+- Automate the Boring Stuff with Python - Al Sweigart
+- Structure and Interpretation of Computer Programs
+
+## Non-technical
+- The Lean Startup
+- Range: How Generalists Triumph in a Specialized World
+- Cartas de um estoico
+- A arte da guerra
+- Antifrágil: Coisas que se beneficiam com o caos
+- Crime e castigo
+- Sociedade do cansaço
+- The Power of Habit
+- Atomic Habits
+- The Black Swan
+- The Ten-Day MBA
+
+## Fiction and others
+- The lord of the rings -Tolkien
+- The Hitchhiker's Guide to the Galaxy -Douglas Adams
+- Our Final Invention -James Barrat
+- Foundation -Isaac Asimov
+- O diário de anne frank -Anne Frank
+- Fahrenheit 451 -Ray Bradbury
+- Admirável mundo novo -Aldous Huxley
+- O nome do vento -Patrick Rothfuss
+- Assassinato no Expresso do Oriente -Agatha Christie
+- O mundo de sofia -Jostein Gaarder
+- Memórias Póstumas de Brás Cubas -Machado de Assis
+- Vidas secas -Graciliano Ramos
+- A metamorfose -Franz Kafka
+- A morte de ivan ilitch -Liev Tolstói
+- O fantasma de canterville -Oscar Wilde
+- O alienista -Machado de Assis
+- Lugar nenhum -Neil Gaiman
+- Laranja mecânica -Anthony Burgess
+- Cem anos de solidão -Gabriel Garcia Márquez
+- O conto da aia -Margaret Atwood
+- 1984 -George Orwell
+- A revolução dos bichos -George Orwell
+- Dom Quixote -Cervantes
+- Lolita -Vladimir Nabokov
+- O Fim da Eternidade - Isaac Asimov
+- O estrangeiro - Albert Camus
+- Memórias do subsolo - Dostoiévski
