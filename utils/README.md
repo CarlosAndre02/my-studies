@@ -1,0 +1,30 @@
+## Websites
+- [Free-for-dev](https://free-for.dev/#/)  
+- [Refactoring](https://refactoring.guru/refactoring/)
+- [Design Patterns - Refactoring Guru](https://refactoring.guru/design-patterns)
+- [Design Patterns - Source Making](https://sourcemaking.com/design_patterns)
+- [Free course list](https://freecourses.github.io/)
+- [Shell Scripting Tutorial](https://www.shellscript.sh/)
+- [Exercism.org](https://exercism.org/)
+
+## Tools
+- [Dev docs](https://devdocs.io/)
+- [List of cheatsheets](https://overapi.com/)
+- [Carbon](https://carbon.now.sh/)
+- [Coolors](https://coolors.co/)
+- [Tablericons](https://tablericons.com/)
+- [Emojipedia](https://emojipedia.org/)
+- [Create readme](https://readme.so/pt)
+- [Validate html](https://validator.w3.org/#validate_by_uri)
+- [Box shadow examples](https://getcssscan.com/css-box-shadow-examples)
+- [Generate email](https://temp-mail.org/pt/)
+- [Clamp calculator](https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/#for-those-who-dont-mind-that-edge-case)
+- [Open-source illustrations](https://undraw.co/)
+- [haveibeenpwned](https://haveibeenpwned.com/)
+- [Minha senha vazou?](https://minhasenha.com/)
+
+## Courses
+- [Computational thinking - MIT](https://computationalthinking.mit.edu/)
+- [Mathematical Thinking - San Diego](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)
+- [Technical Writing Courses](https://developers.google.com/tech-writing)
+- [The Missing Semester of Your CS Education - proficiency with their tools](https://missing.csail.mit.edu/)
