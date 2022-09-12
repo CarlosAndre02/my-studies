@@ -1,0 +1,24 @@
+- **Eficácia:** A eficácia está presente quando aquilo que se projeta faz ou possui o que se espera dele. Por exemplo, uma interface de login que apresenta os campos necessários e que ao clicar no botão correspondente ele conecta com rapidez.
+- **Design estético:** Não basta só ser funcional, tem que ser esteticamente agradável
+- **Eficiência:** Está presente quando o projeto apresenta recursos que ajudam a cumprir a tarefa. Por exemplo, no caso da interface de login, se além dos campos necessários ela contar com dias para efetuar o login (seu login é seu e-mail, a senha possui 4 dígitos, etc.).
+- **Visibilidade do estado do sistema:** Sinais e mensagens simples podem ajudar muito na interação como "carregando", "atualizado", "salvo", podendo ajudar o usuário a saber onde está e o que fazer a seguir.
+- **Flexibilidade e eficiência de uso:** As pessoas pensam, sentem e agem de modo diferente, portanto permitir certa flexibilidade de uso pode ajudar muito o usuário a cumprir suas tarefas. Permitir certa personalização pode contribuir aqui.
+- **Suporte para o usuário reconhecer, diagnosticar e recuperar erros:** Criar meios e avisos para o usuário conseguir gerenciar os erros ampliam tanto a eficiência quanto a própria utilidade da interface.
+- **Segurança:** A segurança, neste caso, está relacionada tanto a proteção em si, como a sensação de segurança, por exemplo, o uso de criptografia pode tornar o sistema mais seguro para o usuário, e isto sendo comunicado para ele pode também aumentar sua sensação de segurança.
+- **Prevenção de erros:** Prevenir os possíveis erros que o usuário pode cometer interagindo com a interface oferecendo meios para ele se recuperar, pode ampliar a credibilidade que este usuário terá do projeto.
+- **Aprendizagem:** A aprendizagem está relacionada aos processos e a facilidade deles serem compreendidos pelo usuário, por exemplo, uma linguagem adequada ao usuário pode diminuir possíveis dificuldades de aprendizado. Uma interface mais intuítiva também contribui.
+- **Mapeamento entre o sistema e o mundo real:** A primeira referência do usuário será sempre o mundo real, portanto é importante que a versão digital tenha alguma ligação com o físico para ajudar no processo de aprendizado.
+- **Ajuda e documentação:** Por mais bem projetada que seja a solução pode ser que algo não pareça tão simples, um bom painel de ajuda e uma documentação organizada pode ajudar muito todos os envolvidos.
+- **Reconhecer ao invés de lembrar:** Fazer os elementos reconhecíeis contribui tanto para eficiência, quanto na eficácia ou mesmo no aprendizado do usuário, ou seja, fazer um botão que parece botão e evitar o oposto.
+- **Consistência e padrões:** Tanto para ajudar na memorização, quanto no aprendizado ou mesmo na sensação de segurança, manter a consistência e os padrões são cruciais para o usuário.
+- **Utilidade:** A utilidade está presente quando se torna evidente que é mais fácil cumprir a tarefa com a solução desenvolvida do que de outra maneira.
+- **Liberdade e controle ao usuário:** Permitir que o usuário aja livremente pode ser a melhor forma para ele conseguir realizar sua tarefa, personalizações do ambiente digital podem ser aplicadas aqui, por exemplo.
+- **Interesses:** Aqui é o momento de avaliar se o projeto atende aos interesses do usuário, como, por exemplo:
+    - A solução é esteticamente agradável
+    - A solução é divertida
+    - A solução é interessante
+    - A solução é motivadora
+- **Fornecer atalhos**
+- **Marcar o final dos diálogos**
+- **Permitir o cancelamento das ações**
+- **Reduzir a carga de memória de trabalho**
